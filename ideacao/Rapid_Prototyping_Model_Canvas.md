@@ -1,34 +1,41 @@
-# Canvas de Design de Prompts
+# Canvas de Prototipagem Rápida
 
-## 1. Prompt Inicial
+## 1. Ideia de Solução
 
-Escreva o prompt inicial que será utilizado para iniciar a interação com o assistente inteligente. Este prompt deve ser claro e direto, engajando o usuário desde o início.
+Descreva a ideia de solução que será prototipada. Esta descrição deve ser clara e concisa, baseada nas ideias geradas na fase de Ideação.
 
-**Resposta:** "Olá, em que posso ajudar você hoje?"
+**Resposta:** Assistente de IA para atendimento ao cliente.
 
-## 2. Respostas Esperadas
+## 2. Objetivo do Protótipo
 
-Liste as respostas esperadas dos usuários em resposta ao prompt inicial. Considere variações e formas diferentes que os usuários podem usar para responder.
+Defina o objetivo principal do protótipo. Este objetivo deve ser específico e mensurável, refletindo o que se espera alcançar com a prototipagem.
 
-**Resposta:**
-  - "Eu gostaria de saber a duração do curso X e se ele emite certificado."
-  - "Sou um programador iniciante e gostaria de saber se o curso X serve para mim"
-  - "Tive um problema com meu produto e preciso saber como proceder."
+**Resposta:** Validar a capacidade do asistente de IA de responder diversar perguntas sem alucinar.
 
-## 3. Ações Esperadas
+## 3. Recursos Necessários
 
-Defina as ações que o assistente inteligente deve tomar com base nas respostas dos usuários. Estas ações devem ser específicas e claramente relacionadas às respostas esperadas.
+Liste os recursos necessários para a criação do protótipo. Inclua ferramentas, tecnologias, equipe, dados, e qualquer outro recurso relevante.
 
 **Resposta:**
-  - De forma natural informar a duração do curso e se emite ou não certificado e se não alucinar na resposta.
-  - Informar as especificações do curso e dizer se ele se enquadra ou não para programadores iniciantes.
-  - Informar a política de assistência ou reembolso da loja de forma natural e sem alucinar.
+  - Ferramentas de desenvolvimento de IA (ex.: TensorFlow, Dialogflow)
+  - Desenvolvedores de IA e engenheiros de software
+  - Feedback de usuários
 
-## 4. Feedback e Ajustes
+## 4. Cronograma de Desenvolvimento
 
-Descreva como o feedback dos usuários será coletado e utilizado para ajustar e melhorar os prompts. Inclua métodos de coleta de feedback e estratégias para implementar melhorias.
+Estabeleça um cronograma detalhado para o desenvolvimento do protótipo. Inclua marcos importantes e prazos para cada etapa do processo.
 
 **Resposta:**
-  - Coletar feedback por meio de pesquisas de satisfação após a interação.
-  - Analisar logs de interação para identificar padrões e áreas de melhoria.
-  - Realizar ajustes nos prompts com base no feedback recebido para melhorar a eficácia e a experiência do usuário.
+  - Semana 1: Criação do esqueleto do projeto e banco de dados
+  - Semana 2-3: criação do assistente e das tools 
+  - Semana 4: Testes e ajustes do protótipo
+  - Semana 5: Implementação piloto
+
+## 5. Métricas de Sucesso
+
+Defina as métricas que serão utilizadas para medir o sucesso do protótipo. Estas métricas devem ser específicas, mensuráveis, alcançáveis, relevantes e com prazo definido (SMART).
+
+**Resposta:**
+  - Satisfação do usuário final
+  - Satisfação do cliente 
+  - Quantidade de respostas precisas e sem alucinação. 
